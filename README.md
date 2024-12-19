@@ -11,4 +11,4 @@ This portfolio is a collection of my projects and skills. It’s my way of showi
 I’m excited about the future and can’t wait to take on a data analyst role where I can bring my skills, curiosity, and passion for problem-solving to the table. Feel free to look around my portfolio.
 
 I’d love to connect and chat more about data, engineering, or anything in between!
-
+# Portfolio Projects
