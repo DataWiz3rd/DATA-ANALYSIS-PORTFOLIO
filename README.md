@@ -13,6 +13,7 @@ I’m excited about the future and can’t wait to take on a data analyst role w
 I’d love to connect and chat more about data, engineering, or anything in between!
 ## Portfolio Projects
 ### Sentiment-Based Community Engagement Tracker
+[Sentiment-Based Community Engagement Tracker.xlsx](https://github.com/user-attachments/files/18279607/Sentiment-Based.Community.Engagement.Tracker.xlsx)
 #### Overview
 This project analyzes how social media sentiment (positive, neutral, negative) influences engagement metrics such as likes, comments, and shares. The analysis provides actionable insights for improving content strategies.
 #### Key Features
@@ -33,6 +34,7 @@ This project analyzes how social media sentiment (positive, neutral, negative) i
 - Positive sentiment posts generate the highest average engagement.
 - Neutral sentiment posts have consistent but lower engagement compared to positive.
 - Negative sentiment posts show the least engagement.
+
 
 ### University Student Budget Planner
 [University Student Budget Planner.xlsx](https://github.com/user-attachments/files/18279565/University.Student.Budget.Planner.xlsx)
