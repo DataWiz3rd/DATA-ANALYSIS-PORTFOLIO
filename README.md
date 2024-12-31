@@ -33,6 +33,32 @@ This project analyzes how social media sentiment (positive, neutral, negative) i
 - Positive sentiment posts generate the highest average engagement.
 - Neutral sentiment posts have consistent but lower engagement compared to positive.
 - Negative sentiment posts show the least engagement.
+
+### University Student Budget Planner
+#### Overview
+The University Student Budget Planner is a dynamic and user-friendly spreadsheet designed to help students effectively manage their finances for the first quarter of the year. This planner includes built-in formulas that automate calculations, making it an efficient tool for tracking income and expenses. 
+#### Key Features
+- Automated Calculations: Built-in formulas for instant computation of totals, balances, and variances.
+- Categorized Expenses: Separate sections for essential and non-essential spending to enhance budget clarity.
+- Customizable Inputs: Flexible fields to adjust income sources and expense categories according to individual needs.
+- Error Minimization: Conditional formatting and formula validation to prevent oversights or incorrect data entries.
+#### Process
+1. **Identifying the Need:** Recognized the financial management challenges faced by university students, particularly in the first quarter of the year after excessive spending during holidays.
+2. **Design Phase:** Outlined the spreadsheet structure, dividing it into key sections while highlighting income and expenses.
+3. **Formulas Implementation:** Integrated essential functions like SUM and conditional formatting to automate calculations and improve usability.
+4. **Testing & Refinement:** Simulated various scenarios to ensure the accuracy of formulas and ease of use, incorporating user feedback.
+5. **Finalization:** Polished the design for clarity, aesthetics, and accessibility.
+#### Tools Used
+- **Google Sheets:** Primary tool for creating the budget planner.
+- **Spreadsheet Formulas:** Utilized advanced functions like SUM and conditional formatting for automation.
+- **Visualization Features:** Applied color coding and formatting to enhance readability and user experience.
+#### Results
+- Ease of Use: Simplified the budgeting process for university students, reducing the time spent on manual calculations.
+- Improved Financial Awareness: Enabled users to make informed financial decisions by visualizing their spending patterns.
+
+
+
+
   
 
 
