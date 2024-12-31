@@ -28,8 +28,6 @@ This project analyzes how social media sentiment (positive, neutral, negative) i
 4. **Report:** Compiled findings into a professional report.
 #### Tools Used
 - **Excel:** Data cleaning, pivot tables, and visualizations.
-- **Canva:** Visual report design.
-- **GitHub:** Repository for project sharing.
 #### Results
 - Positive sentiment posts generate the highest average engagement.
 - Neutral sentiment posts have consistent but lower engagement compared to positive.
