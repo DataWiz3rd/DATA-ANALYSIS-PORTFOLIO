@@ -35,6 +35,7 @@ This project analyzes how social media sentiment (positive, neutral, negative) i
 - Negative sentiment posts show the least engagement.
 
 ### University Student Budget Planner
+[University Student Budget Planner .csv](https://github.com/user-attachments/files/18279550/University.Student.Budget.Planner.csv)
 #### Overview
 The University Student Budget Planner is a dynamic and user-friendly spreadsheet designed to help students effectively manage their finances for the first quarter of the year. This planner includes built-in formulas that automate calculations, making it an efficient tool for tracking income and expenses. 
 #### Key Features
@@ -60,5 +61,6 @@ The University Student Budget Planner is a dynamic and user-friendly spreadsheet
 
 
   
+
 
 
