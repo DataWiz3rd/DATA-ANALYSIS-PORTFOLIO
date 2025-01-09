@@ -2,7 +2,7 @@
 ## About
 I’m Caroline, a Chemical Engineering enthusiast with a love for making sense of data. My journey into data analytics started with tools like MATLAB, Excel, and SQL, and I’ve also picked up some Python along the way. I believe my engineering background gives me a unique edge when it comes to solving problems and finding patterns in complex datasets.
 
-One of my proudest achievements was during my time as Membership Chairperson for the Society of Petroleum Engineers (SPEOAU). I worked on analyzing and organizing membership data, and my efforts led to a 30% increase in membership within just a month! It felt amazing to see how data-driven decisions could make such a big impact.
+One of my proudest achievements is during my time as Membership Chairperson for the Society of Petroleum Engineers (SPEOAU). I worked on analyzing and organizing membership data, and my efforts led to a 30% increase in membership within just a month! It felt amazing to see how data-driven decisions could make such a big impact.
 
 I’ve also had the chance to participate in a MATLAB competition, which taught me how powerful computational tools can be for breaking down tough problems. Those experiences made me realize how much I enjoy digging into data, finding insights, and using them to drive meaningful change.
 
@@ -20,7 +20,6 @@ This project analyzes how social media sentiment (positive, neutral, negative) i
 - Cleaned and processed datasets for analysis.
 - Calculated average and total engagement using Excel formulas.
 - Created visualizations (bar and pie charts) to show trends and insights.
-- Delivered a summary report using Canva.
 #### Process
 1. **Data Cleaning:** Organized raw data to prepare for analysis.
 2. **Engagement Metrics:** Used pivot tables and formulas to calculate key metrics.
